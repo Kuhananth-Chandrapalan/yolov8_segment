@@ -1,0 +1,4 @@
+train: C:\Users\user\Desktop\yolov8_segment\train
+val: C:\Users\user\Desktop\yolov8_segment\test
+nc: 1
+names: ["butterfly"]
